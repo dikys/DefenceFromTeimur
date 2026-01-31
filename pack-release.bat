@@ -2,7 +2,7 @@
 
 :: === VARIABLES ===============================================
 
-set MOD_NAME=ExperienceSystem
+set MOD_NAME=DefenceFromTeimur
 
 :: === SETUP ===================================================
 

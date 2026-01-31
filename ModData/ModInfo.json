@@ -1,0 +1,10 @@
+{
+  "Uid": "#ContentPack_DefenceFromTeimur",
+  "DisplayName": "Оборона от Теймура",
+  "Description": "Режим защиты от волн врагов Теймура. Выберите сложность, план атаки и постройте оборону, чтобы выдержать натиск легендарных юнитов.",
+  "Authors": "Dikysa",
+  "BuiltIn": false,
+  "StandAlone": false,
+  "GameVersion": "0.76pre",
+  "ModVersion": "0.01"
+}

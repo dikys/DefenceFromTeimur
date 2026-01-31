@@ -1,0 +1,569 @@
+{
+  "FormatVersion": "v0.67dev",
+  "Items": [
+    {
+      "$type": "HordeClassLibrary::ButtonAnimationsCatalog",
+      "Uid": "#AnimCatalog_Command_arrows_volley",
+      "Description": "Command button \"Spell_arrows_volley\"",
+      "InternalEditorPath": "Units\\Commands\\Capture\\Spell_arrows_volley",
+      "RootSection": {
+        "States": {
+          "Focused": "Spell_arrows_volley_focused",
+          "Pressed": "Spell_arrows_volley_pressed",
+          "Regular": "Spell_arrows_volley_regular",
+          "Disabled": "Spell_arrows_volley_disabled"
+        }
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::ButtonAnimationsCatalog",
+      "Uid": "#AnimCatalog_Command_fireball",
+      "Description": "Command button \"Spell_fireball\"",
+      "InternalEditorPath": "Units\\Commands\\Capture\\Spell_fireball",
+      "RootSection": {
+        "States": {
+          "Focused": "Spell_fireball_focused",
+          "Pressed": "Spell_fireball_pressed",
+          "Regular": "Spell_fireball_regular",
+          "Disabled": "Spell_fireball_disabled"
+        }
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::ButtonAnimationsCatalog",
+      "Uid": "#AnimCatalog_Command_golden_barracks_summon",
+      "Description": "Command button \"Spell_golden_barracks_summon\"",
+      "InternalEditorPath": "Units\\Commands\\Capture\\Spell_golden_barracks_summon",
+      "RootSection": {
+        "States": {
+          "Focused": "Spell_golden_barracks_summon_focused",
+          "Pressed": "Spell_golden_barracks_summon_pressed",
+          "Regular": "Spell_golden_barracks_summon_regular",
+          "Disabled": "Spell_golden_barracks_summon_disabled"
+        }
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::ButtonAnimationsCatalog",
+      "Uid": "#AnimCatalog_Command_healing_aura",
+      "Description": "Command button \"Spell_healing_aura\"",
+      "InternalEditorPath": "Units\\Commands\\Capture\\Spell_healing_aura",
+      "RootSection": {
+        "States": {
+          "Focused": "Spell_healing_aura_focused",
+          "Pressed": "Spell_healing_aura_pressed",
+          "Regular": "Spell_healing_aura_regular",
+          "Disabled": "Spell_healing_aura_disabled"
+        }
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::ButtonAnimationsCatalog",
+      "Uid": "#AnimCatalog_Command_teleportation_mark",
+      "Description": "Command button \"Spell_teleportation_mark\"",
+      "InternalEditorPath": "Units\\Commands\\Capture\\Spell_teleportation_mark",
+      "RootSection": {
+        "States": {
+          "Focused": "Spell_teleportation_mark_focused",
+          "Pressed": "Spell_teleportation_mark_pressed",
+          "Regular": "Spell_teleportation_mark_regular",
+          "Disabled": "Spell_teleportation_mark_disabled"
+        }
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::ButtonAnimationsCatalog",
+      "Uid": "#AnimCatalog_Command_teleportation",
+      "Description": "Command button \"Spell_teleportation\"",
+      "InternalEditorPath": "Units\\Commands\\Capture\\Spell_teleportation",
+      "RootSection": {
+        "States": {
+          "Focused": "Spell_teleportation_focused",
+          "Pressed": "Spell_teleportation_pressed",
+          "Regular": "Spell_teleportation_regular",
+          "Disabled": "Spell_teleportation_disabled"
+        }
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::ButtonAnimationsCatalog",
+      "Uid": "#AnimCatalog_Command_call_of_nature",
+      "Description": "Command button \"Spell_call_of_nature\"",
+      "InternalEditorPath": "Units\\Commands\\Capture\\Spell_call_of_nature",
+      "RootSection": {
+        "States": {
+          "Focused": "Spell_call_of_nature_focused",
+          "Pressed": "Spell_call_of_nature_pressed",
+          "Regular": "Spell_call_of_nature_regular",
+          "Disabled": "Spell_call_of_nature_disabled"
+        }
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::ButtonAnimationsCatalog",
+      "Uid": "#AnimCatalog_Command_fiery_trail",
+      "Description": "Command button \"Spell_fiery_trail\"",
+      "InternalEditorPath": "Units\\Commands\\Capture\\Spell_fiery_trail",
+      "RootSection": {
+        "States": {
+          "Focused": "Spell_fiery_trail_focused",
+          "Pressed": "Spell_fiery_trail_pressed",
+          "Regular": "Spell_fiery_trail_regular",
+          "Disabled": "Spell_fiery_trail_disabled"
+        }
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::ButtonAnimationsCatalog",
+      "Uid": "#AnimCatalog_Command_army_of_dead",
+      "Description": "Command button \"Spell_army_of_dead\"",
+      "InternalEditorPath": "Units\\Commands\\Capture\\Spell_army_of_dead",
+      "RootSection": {
+        "States": {
+          "Focused": "Spell_army_of_dead_focused",
+          "Pressed": "Spell_army_of_dead_pressed",
+          "Regular": "Spell_army_of_dead_regular",
+          "Disabled": "Spell_army_of_dead_disabled"
+        }
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::ButtonAnimationsCatalog",
+      "Uid": "#AnimCatalog_Command_fear_attack",
+      "Description": "Command button \"Spell_fear_attack\"",
+      "InternalEditorPath": "Units\\Commands\\Capture\\Spell_fear_attack",
+      "RootSection": {
+        "States": {
+          "Focused": "Spell_fear_attack_focused",
+          "Pressed": "Spell_fear_attack_pressed",
+          "Regular": "Spell_fear_attack_regular",
+          "Disabled": "Spell_fear_attack_disabled"
+        }
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::ButtonAnimationsCatalog",
+      "Uid": "#AnimCatalog_Command_fiery_dash",
+      "Description": "Command button \"Spell_fiery_dash\"",
+      "InternalEditorPath": "Units\\Commands\\Capture\\Spell_fiery_dash",
+      "RootSection": {
+        "States": {
+          "Focused": "Spell_fiery_dash_focused",
+          "Pressed": "Spell_fiery_dash_pressed",
+          "Regular": "Spell_fiery_dash_regular",
+          "Disabled": "Spell_fiery_dash_disabled"
+        }
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::ButtonAnimationsCatalog",
+      "Uid": "#AnimCatalog_Command_FireArrowsRain",
+      "Description": "Command button \"Spell_FireArrowsRain\"",
+      "InternalEditorPath": "Units\\Commands\\Capture\\Spell_FireArrowsRain",
+      "RootSection": {
+        "States": {
+          "Focused": "Spell_FireArrowsRain_focused",
+          "Pressed": "Spell_FireArrowsRain_pressed",
+          "Regular": "Spell_FireArrowsRain_regular",
+          "Disabled": "Spell_FireArrowsRain_disabled"
+        }
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::ButtonAnimationsCatalog",
+      "Uid": "#AnimCatalog_Command_fortress",
+      "Description": "Command button \"Spell_fortress\"",
+      "InternalEditorPath": "Units\\Commands\\Capture\\Spell_fortress",
+      "RootSection": {
+        "States": {
+          "Focused": "Spell_fortress_focused",
+          "Pressed": "Spell_fortress_pressed",
+          "Regular": "Spell_fortress_regular",
+          "Disabled": "Spell_fortress_disabled"
+        }
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::ButtonAnimationsCatalog",
+      "Uid": "#AnimCatalog_Command_invisibility",
+      "Description": "Command button \"Spell_invisibility\"",
+      "InternalEditorPath": "Units\\Commands\\Capture\\Spell_invisibility",
+      "RootSection": {
+        "States": {
+          "Focused": "Spell_invisibility_focused",
+          "Pressed": "Spell_invisibility_pressed",
+          "Regular": "Spell_invisibility_regular",
+          "Disabled": "Spell_invisibility_disabled"
+        }
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::ButtonAnimationsCatalog",
+      "Uid": "#AnimCatalog_Command_PoisonBomb",
+      "Description": "Command button \"Spell_PoisonBomb\"",
+      "InternalEditorPath": "Units\\Commands\\Capture\\Spell_PoisonBomb",
+      "RootSection": {
+        "States": {
+          "Focused": "Spell_PoisonBomb_focused",
+          "Pressed": "Spell_PoisonBomb_pressed",
+          "Regular": "Spell_PoisonBomb_regular",
+          "Disabled": "Spell_PoisonBomb_disabled"
+        }
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::ButtonAnimationsCatalog",
+      "Uid": "#AnimCatalog_Command_Agr_attack",
+      "Description": "Command button \"Spell_Agr_attack\"",
+      "InternalEditorPath": "Units\\Commands\\Capture\\Spell_Agr_attack",
+      "RootSection": {
+        "States": {
+          "Focused": "Spell_Agr_attack_focused",
+          "Pressed": "Spell_Agr_attack_pressed",
+          "Regular": "Spell_Agr_attack_regular",
+          "Disabled": "Spell_Agr_attack_disabled"
+        }
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::ButtonAnimationsCatalog",
+      "Uid": "#AnimCatalog_Command_Blocking",
+      "Description": "Command button \"Spell_Blocking\"",
+      "InternalEditorPath": "Units\\Commands\\Capture\\Spell_Blocking",
+      "RootSection": {
+        "States": {
+          "Focused": "Spell_Blocking_focused",
+          "Pressed": "Spell_Blocking_pressed",
+          "Regular": "Spell_Blocking_regular",
+          "Disabled": "Spell_Blocking_disabled"
+        }
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::ButtonAnimationsCatalog",
+      "Uid": "#AnimCatalog_Command_Power_Attack",
+      "Description": "Command button \"Spell_Power_Attack\"",
+      "InternalEditorPath": "Units\\Commands\\Capture\\Spell_Power_Attack",
+      "RootSection": {
+        "States": {
+          "Focused": "Spell_Power_Attack_focused",
+          "Pressed": "Spell_Power_Attack_pressed",
+          "Regular": "Spell_Power_Attack_regular",
+          "Disabled": "Spell_Power_Attack_disabled"
+        }
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::ButtonAnimationsCatalog",
+      "Uid": "#AnimCatalog_Command_Vampirism",
+      "Description": "Command button \"Spell_Vampirism\"",
+      "InternalEditorPath": "Units\\Commands\\Capture\\Spell_Vampirism",
+      "RootSection": {
+        "States": {
+          "Focused": "Spell_Vampirism_focused",
+          "Pressed": "Spell_Vampirism_pressed",
+          "Regular": "Spell_Vampirism_regular",
+          "Disabled": "Spell_Vampirism_disabled"
+        }
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::ButtonAnimationsCatalog",
+      "Uid": "#AnimCatalog_Command_Magic_shield",
+      "Description": "Command button \"Spell_Magic_shield\"",
+      "InternalEditorPath": "Units\\Commands\\Capture\\Spell_Magic_shield",
+      "RootSection": {
+        "States": {
+          "Focused": "Spell_Magic_shield_focused",
+          "Pressed": "Spell_Magic_shield_pressed",
+          "Regular": "Spell_Magic_shield_regular",
+          "Disabled": "Spell_Magic_shield_disabled"
+        }
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::ButtonAnimationsCatalog",
+      "Uid": "#AnimCatalog_Command_Summon_Guardians",
+      "Description": "Command button \"Spell_Summon_Guardians\"",
+      "InternalEditorPath": "Units\\Commands\\Capture\\Spell_Summon_Guardians",
+      "RootSection": {
+        "States": {
+          "Focused": "Spell_Summon_Guardians_focused",
+          "Pressed": "Spell_Summon_Guardians_pressed",
+          "Regular": "Spell_Summon_Guardians_regular",
+          "Disabled": "Spell_Summon_Guardians_disabled"
+        }
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::ButtonAnimationsCatalog",
+      "Uid": "#AnimCatalog_Command_Ricochet",
+      "Description": "Command button \"Spell_Ricochet\"",
+      "InternalEditorPath": "Units\\Commands\\Capture\\Spell_Ricochet",
+      "RootSection": {
+        "States": {
+          "Focused": "Spell_Ricochet_focused",
+          "Pressed": "Spell_Ricochet_pressed",
+          "Regular": "Spell_Ricochet_regular",
+          "Disabled": "Spell_Ricochet_disabled"
+        }
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::ButtonAnimationsCatalog",
+      "Uid": "#AnimCatalog_Command_Reflection",
+      "Description": "Command button \"Spell_Reflection\"",
+      "InternalEditorPath": "Units\\Commands\\Capture\\Spell_Reflection",
+      "RootSection": {
+        "States": {
+          "Focused": "Spell_Reflection_focused",
+          "Pressed": "Spell_Reflection_pressed",
+          "Regular": "Spell_Reflection_regular",
+          "Disabled": "Spell_Reflection_disabled"
+        }
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::ButtonAnimationsCatalog",
+      "Uid": "#AnimCatalog_Command_Magic_fire",
+      "Description": "Command button \"Spell_Magic_fire\"",
+      "InternalEditorPath": "Units\\Commands\\Capture\\Spell_Magic_fire",
+      "RootSection": {
+        "States": {
+          "Focused": "Spell_Magic_fire_focused",
+          "Pressed": "Spell_Magic_fire_pressed",
+          "Regular": "Spell_Magic_fire_regular",
+          "Disabled": "Spell_Magic_fire_disabled"
+        }
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::UnitAnimationsCatalog",
+      "Uid": "#AnimCatalog_Nature_Invisibility_Horse",
+      "Description": "invisibility_horse",
+      "InternalEditorPath": "Units\\4_Nature\\invisibility_horse",
+      "RootSection": {
+        "States": {
+          "Stand": {
+            "Directions": {
+              "Up": {
+                "Stages": [
+                  {
+                    "Variations": [
+                      "b2673e2dfc404c79b446830c2e2a2879_inv"
+                    ]
+                  }
+                ]
+              },
+              "RightUp": {
+                "Stages": [
+                  {
+                    "Variations": [
+                      "ad1403472ab64aa8ab1e347ca1a5e36f_inv"
+                    ]
+                  }
+                ]
+              },
+              "Right": {
+                "Stages": [
+                  {
+                    "Variations": [
+                      "6d11ead886a1447f84598d14c730bfd7_inv"
+                    ]
+                  }
+                ]
+              },
+              "RightDown": {
+                "Stages": [
+                  {
+                    "Variations": [
+                      "e0f7df1fc4564e879a7e17479fa567d2_inv"
+                    ]
+                  }
+                ]
+              },
+              "Down": {
+                "Stages": [
+                  {
+                    "Variations": [
+                      "2bfbe19478eb4e75b1fdda147625e229_inv"
+                    ]
+                  }
+                ]
+              },
+              "LeftDown": {
+                "Stages": [
+                  {
+                    "Variations": [
+                      "fd4cfd8f2fc744f290ac89c32b46c67a_inv"
+                    ]
+                  }
+                ]
+              },
+              "Left": {
+                "Stages": [
+                  {
+                    "Variations": [
+                      "ffbed766c0cd4c1fa4799cd6e3a78ba9_inv"
+                    ]
+                  }
+                ]
+              },
+              "LeftUp": {
+                "Stages": [
+                  {
+                    "Variations": [
+                      "4310c44c446b446d93311138341e4276_inv"
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          "Move": {
+            "Directions": {
+              "Up": {
+                "Stages": [
+                  {
+                    "Variations": [
+                      "d2bad4aec89e49b798430ddf25d26e29_inv"
+                    ]
+                  }
+                ]
+              },
+              "RightUp": {
+                "Stages": [
+                  {
+                    "Variations": [
+                      "180464ac69f046cdae7aef8fea99ad96_inv"
+                    ]
+                  }
+                ]
+              },
+              "Right": {
+                "Stages": [
+                  {
+                    "Variations": [
+                      "6635f42a74b541e4b864334e9d529f13_inv"
+                    ]
+                  }
+                ]
+              },
+              "RightDown": {
+                "Stages": [
+                  {
+                    "Variations": [
+                      "89623206177f465cb3f4a70efb0e942e_inv"
+                    ]
+                  }
+                ]
+              },
+              "Down": {
+                "Stages": [
+                  {
+                    "Variations": [
+                      "7a0d698bf16f49af9c26c8bf65661839_inv"
+                    ]
+                  }
+                ]
+              },
+              "LeftDown": {
+                "Stages": [
+                  {
+                    "Variations": [
+                      "6835c21b57384e0487c9e0a8f4f28641_inv"
+                    ]
+                  }
+                ]
+              },
+              "Left": {
+                "Stages": [
+                  {
+                    "Variations": [
+                      "198fa445384e4d839dbdb531fefb23e1_inv"
+                    ]
+                  }
+                ]
+              },
+              "LeftUp": {
+                "Stages": [
+                  {
+                    "Variations": [
+                      "50207a93f96848958cb1b615f1c9e655_inv"
+                    ]
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::SimpleAnimationsCatalog",
+      "Uid": "#AnimCatalog_Effects_LittleRedDust",
+      "Description": "lit_red_dust",
+      "InternalEditorPath": "Effects\\lit_red_dust",
+      "RootSection": {
+        "Variations": [
+          "897c65de153549cd97de567524fde439_red"
+        ]
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::SimpleAnimationsCatalog",
+      "Uid": "#AnimCatalog_Effects_BloodGreenPool",
+      "Description": "blood_green_pool",
+      "InternalEditorPath": "Effects\\blood_green_pool",
+      "RootSection": {
+        "Variations": [
+          "635d995199d74f33914c907344762ed7_green"
+        ]
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::SimpleAnimationsCatalog",
+      "Uid": "d8ca2086c4e5409d9411006751e3f4a0_red",
+      "Description": "magic1",
+      "InternalEditorPath": "Effects\\magic1",
+      "RootSection": {
+        "Variations": [
+          "ad059387086f497dba3d5f10225c562f_red"
+        ]
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::SimpleAnimationsCatalog",
+      "Uid": "d8ca2086c4e5409d9411006751e3f4a0_babble",
+      "Description": "magic1",
+      "InternalEditorPath": "Effects\\magic1",
+      "RootSection": {
+        "Variations": [
+          "ad059387086f497dba3d5f10225c562f_babble"
+        ]
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::SimpleAnimationsCatalog",
+      "Uid": "#AnimCatalog_Effects_MagicFireLittle",
+      "Description": "fire_lit",
+      "InternalEditorPath": "Bullets\\magicfire_lit",
+      "RootSection": {
+        "Variations": [
+          "#AnimAtlas_Bullets_MagicFireLittle_Burning"
+        ]
+      }
+    },
+    {
+      "$type": "HordeClassLibrary::SimpleAnimationsCatalog",
+      "Uid": "#AnimCatalog_Effects_MagicFireBig",
+      "Description": "fire_big",
+      "InternalEditorPath": "Bullets\\magicfire_big",
+      "RootSection": {
+        "Variations": [
+          "#AnimAtlas_Bullets_MagicFireBig_Burning"
+        ]
+      }
+    }
+  ]
+}

@@ -71,7 +71,7 @@ export class Player_CASTLE_CHOISE_DIFFICULT extends IUnit {
 
             var choise_BaseCfgUids = ["#UnitConfig_Slavyane_Worker1", "#UnitConfig_Barbarian_Swordmen", "#UnitConfig_Slavyane_Heavymen"];
             var choise_CfgUid     = this.CfgUid + "_";
-            var difficults : Array<number> = [0.5];
+            var difficults : Array<number> = [];
             for (var difficultIdx = 1; difficultIdx <= GlobalVars.difficult + 2; difficultIdx++) {
                 difficults.push(difficultIdx);
             }

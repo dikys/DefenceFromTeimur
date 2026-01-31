@@ -96,7 +96,7 @@ export class AttackPlan_1 extends IAttackPlan {
             [
                 new WaveUnit(Teimur_Legendary_SWORDMEN,  1),
                 new WaveUnit(Teimur_Legendary_RAIDER,    1),
-                new WaveUnit(Teimur_Legendary_HORSE,     1),
+                //new WaveUnit(Teimur_Legendary_HORSE,     1),
                 new WaveUnit(Teimur_Legendary_FIRE_MAGE, 1)
             ]
         ];
@@ -1173,7 +1173,17 @@ export class AttackPlan_test extends IAttackPlan {
 
         this.waves = [];
         this.waves.push(
-            new Wave("ТЕСТ", 0, [new WaveUnit(Teimur_Villur, 5)]),
+            new Wave("ТЕСТ", 0, [
+                new WaveUnit(Teimur_Legendary_ARCHER,      1),
+                new WaveUnit(Teimur_Legendary_WORKER,      1),
+                new WaveUnit(Teimur_Legendary_GREED_HORSE, 1),
+                new WaveUnit(Teimur_Legendary_HEAVYMAN,     1),
+                new WaveUnit(Teimur_Legendary_ARCHER_2,     1),
+                new WaveUnit(Teimur_Legendary_DARK_DRAIDER, 1),
+                new WaveUnit(Teimur_Legendary_SWORDMEN,  1),
+                new WaveUnit(Teimur_Legendary_RAIDER,    1),
+                new WaveUnit(Teimur_Legendary_FIRE_MAGE, 1)
+            ]),
             new Wave("END", 20*60*50, [])
         );
     }
@@ -1190,5 +1200,5 @@ export const AttackPlansClass = [
     // // AttackPlan_4,
     // // AttackPlan_5,
     // // AttackPlan_6,
-    AttackPlan_test
+    //AttackPlan_test
 ];
